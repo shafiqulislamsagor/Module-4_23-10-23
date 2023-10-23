@@ -10,11 +10,13 @@ nav li{
 }
 nav li a{
     text-decoration: none;
-    padding: 5px 8px;
+    padding: 5px 10px;
+
     
 
 }
 nav li:hover{
     background-color: lightgray;
     border-radius: 25px 50px;
+    color:greenyellow
 }
